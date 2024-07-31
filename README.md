@@ -38,8 +38,14 @@ I'm constantly learning and keeping up-to-date with the latest trends in cyberse
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
+## 📫 Get in Touch
+[<img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=gmail&logoColor=white" alt="Email" height="20">](mailto:shekhatniral18@example.com)\
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="20">](https://www.linkedin.com/in/niral-shekhat-45ab55244)\
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="20">](https://twitter.com/niral_shekhat)\
+[<img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" alt="Blog" height="20">](https://medium.com/@shekhatniral18)
 
-  
+Thank you for visiting my GitHub profile! I'm always open to collaboration and new opportunities. Feel free to reach out!
+
 
 <!--
 **wizaard07/wizaard07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
